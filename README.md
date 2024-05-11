@@ -16,3 +16,6 @@ Most block have collision (solid blocks) so that the player could walk on them. 
 The program generates a new random map each time the player creates it and starts a new game. With the exeption of start island
 
 Map can be saved, along with the player progress by pressing save. Progress can be loaded from file, which can be chosen in game, by pressing load.
+
+
+Requires: -lSDL2 -lSDL2_ttf -lSDL2_image
